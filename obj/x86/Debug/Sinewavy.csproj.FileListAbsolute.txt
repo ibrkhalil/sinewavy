@@ -1,0 +1,7 @@
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\obj\x86\Debug\Sinewavy.Properties.Resources.resources
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\obj\x86\Debug\Sinewavy.csproj.GenerateResource.Cache
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\bin\Debug\Sinewavy.exe
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\bin\Debug\Sinewavy.pdb
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\obj\x86\Debug\Sinewavy.Form1.resources
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\obj\x86\Debug\Sinewavy.exe
+c:\users\mega\documents\visual studio 2010\Projects\Sinewavy\Sinewavy\obj\x86\Debug\Sinewavy.pdb
